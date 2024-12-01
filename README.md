@@ -46,5 +46,5 @@ Bienvenue sur mon profil GitHub ! Je suis un ingénieur passionné par l'automat
 
 ## 📫 Me contacter
 
-- [LinkedIn](https://www.linkedin.com/in/guillaumedesoutter/)
+- [LinkedIn](https://www.linkedin.com/in/guillaume-desoutter/)
 - Email : g.desoutter@gmail.com
