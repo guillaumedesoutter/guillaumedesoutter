@@ -44,6 +44,28 @@ Bienvenue sur mon profil GitHub ! Je suis un ingénieur passionné par l'automat
 
 ---
 
+## 📜 Certifications
+
+### **Certifications obtenues :**
+
+![Certified Kubernetes Administrator](https://img.shields.io/badge/Kubernetes_CKA-%23326CE5?style=flat&logo=kubernetes&logoColor=white)
+- [Certified Kubernetes Administrator](https://www.credly.com/badges/553d2cf1-d251-4845-89b9-48e71a05f2cf/linked_in_profile)
+
+![Certified Kubernetes Application Developer](https://img.shields.io/badge/Kubernetes_CKAD-%23326CE5?style=flat&logo=kubernetes&logoColor=white)
+- [Certified Kubernetes Application Developer](https://www.credly.com/badges/6b4186c0-770a-49c7-9b24-2bf70c164940/linked_in_profile)
+
+![Microsoft Azure Fundamentals](https://img.shields.io/badge/Microsoft_Azure_Fundamentals-%230078D4?style=flat&logo=microsoft-azure&logoColor=white)
+- [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/a128abbb-0bc8-4262-a385-9b2883ab53d9/linked_in_profile)
+
+### **Certifications expirées :**
+
+![AWS Solutions Architect Associate](https://img.shields.io/badge/AWS_Solutions_Architect_Associate-%23232F3E?style=flat&logo=amazon-aws&logoColor=white)
+- [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/2f23d60f-8b7f-4847-8071-db4eb9a63b0e?source=linked_in_profile) *(Expirée)*
+
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-%23232F3E?style=flat&logo=amazon-aws&logoColor=white)
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/6b4186c0-770a-49c7-9b24-2bf70c164940/linked_in_profile) *(Expirée)*
+---
+
 ## 📫 Me contacter
 
 - [LinkedIn](https://www.linkedin.com/in/guillaume-desoutter/)
