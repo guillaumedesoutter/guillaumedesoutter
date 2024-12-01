@@ -49,13 +49,13 @@ Bienvenue sur mon profil GitHub ! Je suis un ingénieur passionné par l'automat
 ### **Certifications obtenues :**
 
 ![Certified Kubernetes Administrator](https://img.shields.io/badge/Kubernetes_CKA-%23326CE5?style=flat&logo=kubernetes&logoColor=white)
-- [Certified Kubernetes Administrator](https://www.credly.com/badges/553d2cf1-d251-4845-89b9-48e71a05f2cf/linked_in_profile)
+- [Certified Kubernetes Administrator](https://www.credly.com/badges/a128abbb-0bc8-4262-a385-9b2883ab53d9/linked_in_profile)
 
 ![Certified Kubernetes Application Developer](https://img.shields.io/badge/Kubernetes_CKAD-%23326CE5?style=flat&logo=kubernetes&logoColor=white)
-- [Certified Kubernetes Application Developer](https://www.credly.com/badges/6b4186c0-770a-49c7-9b24-2bf70c164940/linked_in_profile)
+- [Certified Kubernetes Application Developer](https://www.credly.com/badges/4b15895d-a39b-4a1a-b754-dade7f8a538d/linked_in_profile)
 
 ![Microsoft Azure Fundamentals](https://img.shields.io/badge/Microsoft_Azure_Fundamentals-%230078D4?style=flat&logo=microsoft-azure&logoColor=white)
-- [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/a128abbb-0bc8-4262-a385-9b2883ab53d9/linked_in_profile)
+- [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/553d2cf1-d251-4845-89b9-48e71a05f2cf/linked_in_profile)
 
 ### **Certifications expirées :**
 
